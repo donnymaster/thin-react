@@ -10,4 +10,4 @@ export default function(props){
             <Counter min={4} max={12}/>
         </div>
     )
-}
+} 
